@@ -17,3 +17,22 @@ C:\Users\ASUS\21521626-LeAnhTuan\DoAn2\DoAn2\obj\Debug\net6.0-windows\refint\DoA
 C:\Users\ASUS\21521626-LeAnhTuan\DoAn2\DoAn2\obj\Debug\net6.0-windows\DoAn2.pdb
 C:\Users\ASUS\21521626-LeAnhTuan\DoAn2\DoAn2\obj\Debug\net6.0-windows\DoAn2.genruntimeconfig.cache
 C:\Users\ASUS\21521626-LeAnhTuan\DoAn2\DoAn2\obj\Debug\net6.0-windows\ref\DoAn2.dll
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\bin\Debug\net6.0-windows\DoAn2.exe
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\bin\Debug\net6.0-windows\DoAn2.deps.json
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\bin\Debug\net6.0-windows\DoAn2.runtimeconfig.json
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\bin\Debug\net6.0-windows\DoAn2.dll
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\bin\Debug\net6.0-windows\DoAn2.pdb
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\obj\Debug\net6.0-windows\DoAn2.csproj.AssemblyReference.cache
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\obj\Debug\net6.0-windows\DoAn2.Form1.resources
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\obj\Debug\net6.0-windows\DoAn2.Form2.resources
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\obj\Debug\net6.0-windows\DoAn2.Form3.resources
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\obj\Debug\net6.0-windows\DoAn2.csproj.GenerateResource.cache
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\obj\Debug\net6.0-windows\DoAn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\obj\Debug\net6.0-windows\DoAn2.AssemblyInfoInputs.cache
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\obj\Debug\net6.0-windows\DoAn2.AssemblyInfo.cs
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\obj\Debug\net6.0-windows\DoAn2.csproj.CoreCompileInputs.cache
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\obj\Debug\net6.0-windows\DoAn2.dll
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\obj\Debug\net6.0-windows\refint\DoAn2.dll
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\obj\Debug\net6.0-windows\DoAn2.pdb
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\obj\Debug\net6.0-windows\DoAn2.genruntimeconfig.cache
+C:\Users\Cao Thi\Desktop\Baitap\DoAn2\obj\Debug\net6.0-windows\ref\DoAn2.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\21521626-LeAnhTuan\\DoAn2\\DoAn2\\DoAn2.csproj": {}
+    "C:\\Users\\Cao Thi\\Desktop\\Baitap\\DoAn2\\DoAn2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\21521626-LeAnhTuan\\DoAn2\\DoAn2\\DoAn2.csproj": {
+    "C:\\Users\\Cao Thi\\Desktop\\Baitap\\DoAn2\\DoAn2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\21521626-LeAnhTuan\\DoAn2\\DoAn2\\DoAn2.csproj",
+        "projectUniqueName": "C:\\Users\\Cao Thi\\Desktop\\Baitap\\DoAn2\\DoAn2.csproj",
         "projectName": "DoAn2",
-        "projectPath": "C:\\Users\\ASUS\\21521626-LeAnhTuan\\DoAn2\\DoAn2\\DoAn2.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\21521626-LeAnhTuan\\DoAn2\\DoAn2\\obj\\",
+        "projectPath": "C:\\Users\\Cao Thi\\Desktop\\Baitap\\DoAn2\\DoAn2.csproj",
+        "packagesPath": "C:\\Users\\Cao Thi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cao Thi\\Desktop\\Baitap\\DoAn2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cao Thi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -33,7 +33,7 @@ namespace DoAn2
         {
             try
             {
-                listener = new TcpListener(IPAddress.Any, 1234);
+                listener = new TcpListener(IPAddress.Any, 8080);
                 listener.Start();
                 client = listener.AcceptTcpClient();
                 connected = true;
@@ -57,7 +57,7 @@ namespace DoAn2
                     int bytesRead = stream.Read(buffer, 0, buffer.Length);
                     if (bytesRead > 0)
                     {
-                        string data = System.Text.Encoding.ASCII.GetString(buffer, 0, bytesRead);
+                        string data = Encoding.ASCII.GetString(buffer, 0, bytesRead);
                         string[] coordinates = data.Split(',');
                         int x = int.Parse(coordinates[0]);
                         int y = int.Parse(coordinates[1]);
